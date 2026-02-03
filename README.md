@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi there! I'm Darío 👋
+
+### 🛠️ Aspiring Backend & DevOps Engineer
+Focused on building robust systems and mastering cloud infrastructure. 
+
+---
+
+### 🚀 Technical Focus
+- 🐍 **Backend:** Learning Python (and exploring Go) for backend fundamentals.
+- 🐳 **Docker:** Exploring containerization.
+- 🐧 **Linux:** Getting comfortable with the command line (and Vim! ⌨️).
+
+### 🌏 Professional Goals
+- 🇰🇷 Interested in the South Korean tech ecosystem and its high-scale engineering culture.
+- 📈 Seeking opportunities to grow in international and fast-paced environments.
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dario-perez&show_icons=true&theme=tokyonight)
+
+### 📫 How to reach me
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/dario-perez-devops/)
+- **Email:** [darioperez.2105@gmail.com](mailto:darioperez.2105@gmail.com)
+
+---
+> "Logic is the beginning of wisdom, not the end." 🖖
 
 <!--
 **dario-perez/dario-perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
