@@ -14,8 +14,8 @@ Focused on building robust systems and mastering cloud infrastructure.
 - 🇰🇷 Interested in the South Korean tech ecosystem and its high-scale engineering culture.
 - 📈 Seeking opportunities to grow in international and fast-paced environments.
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dario-perez&show_icons=true&theme=tokyonight)
+### 📊 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dario-perez&theme=tokyonight)
 
 ### 📫 How to reach me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/dario-perez-devops/)
