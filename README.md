@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dario-perez/dario-perez/blob/main/banner.png?raw=true" alt="Dario Perez - Backend & DevOps In Training" width="100%">
+</p>
+
 # Hi there! I'm Darío 👋
 
 ### 🛠️ Aspiring Backend & DevOps Engineer
