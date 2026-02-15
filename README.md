@@ -5,7 +5,11 @@
 # Hi there! I'm Darío 👋
 
 ### 🛠️ Aspiring Backend & DevOps Engineer
-Focused on building robust systems and mastering cloud infrastructure. 
+Focused on building robust systems and mastering cloud infrastructure.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dario-perez&theme=radical" />
+</p>
 
 ---
 
@@ -18,8 +22,11 @@ Focused on building robust systems and mastering cloud infrastructure.
 - 🇰🇷 Interested in the South Korean tech ecosystem and its high-scale engineering culture.
 - 📈 Seeking opportunities to grow in international and fast-paced environments.
 
-### 📊 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dario-perez&theme=tokyonight)
+### 📊 My GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dario-perez&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dario-perez&layout=compact&theme=radical&hide_langs_threshold=2.5" />
+</p>
 
 ### 📫 How to reach me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/dario-perez-devops/)
