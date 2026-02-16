@@ -25,7 +25,7 @@ Focused on building robust systems and mastering cloud infrastructure.
 ### 📊 My GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats-psi-brown-29.vercel.app/api?username=dario-perez&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img height="170em" src="https://github-readme-stats-psi-brown-29.vercel.app/api/top-langs/?username=dario-perez&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="170em" src="https://github-readme-stats-psi-brown-29.vercel.app/api/top-langs/?username=dario-perez&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&hide=html,css" />
 </p>
 
 ### 📫 How to reach me
