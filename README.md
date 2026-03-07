@@ -19,7 +19,7 @@ Focused on building robust systems and mastering cloud infrastructure.
 - 🐧 **Systems:** Linux administration and Command Line proficiency.
 
 
-### 📚 Featured Logic Exercises (Week 2 - OOP)
+### 📚 Featured Logic Exercises (Object-Oriented Programming)
 Recently, I've been focusing on **Object-Oriented Programming** with these projects:
 - [CleanBot Simulator](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/week-2/oop-practice/cleanbot-simulator): A terminal-based autonomous robot that manages its own battery life and position using state management logic. 🤖⚡
 - [Server System](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/week-2/oop-basics): Managed server inheritance and automated reboots.
