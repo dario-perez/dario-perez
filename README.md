@@ -21,6 +21,7 @@ Focused on building robust systems and mastering cloud infrastructure.
 
 ### 📚 Featured Logic Exercises (Week 2 - OOP)
 Recently, I've been focusing on **Object-Oriented Programming** with these projects:
+- [CleanBot Simulator](https://github.com/dario-perez/dario-perez/tree/main/logic-exercises/week-2/oop-practice/cleanbot-simulator): A terminal-based autonomous robot that manages its own battery life and position using state management logic. 🤖⚡
 - [Server System](https://github.com/dario-perez/dario-perez/tree/main/logic-exercises/week-2/oop-basics): Managed server inheritance and automated reboots.
 - [Warehouse Inventory](https://github.com/dario-perez/dario-perez/tree/main/logic-exercises/week-2/oop-practice/warehouse_system): Data-driven inventory using object composition.
 - [Traffic Simulator](https://github.com/dario-perez/dario-perez/tree/main/logic-exercises/week-2/oop-practice/traffic-lights-simulator): State machine logic with visual feedback.
