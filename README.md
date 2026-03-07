@@ -44,6 +44,7 @@ Recently, I've been focusing on **Object-Oriented Programming** with these proje
 - 📈 Committed to continuous growth within international, high-performance backend teams.
 - 🚀 Focused on mastering system reliability and scalable architecture.
 
+---
 
 > "Logic is the beginning of wisdom, not the end." 🖖
 
