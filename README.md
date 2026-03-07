@@ -14,18 +14,20 @@ Focused on building robust systems and mastering cloud infrastructure.
 ---
 
 ### 🚀 Technical Focus
-- 🐍 **Backend:** Learning Python (and exploring Go) for backend fundamentals.
-- 🐳 **Docker:** Exploring containerization.
-- 🐧 **Linux:** Getting comfortable with the command line (and Vim! ⌨️).
+- 🐍 **Backend:** Mastering Python (OOP & Automation) 
+- 🐳 **DevOps:** Containerization with Docker.
+- 🐧 **Systems:** Linux administration and Command Line proficiency.
 
-### 🌏 Professional Goals
-- 🇰🇷 Interested in the South Korean tech ecosystem and its high-scale engineering culture.
-- 📈 Seeking opportunities to grow in international and fast-paced environments.
+### 📚 Featured Logic Exercises (Week 2 - OOP)
+Recently, I've been focusing on **Object-Oriented Programming** with these projects:
+- [Server System](https://github.com/dario-perez/dario-perez/tree/main/logic-exercises/week-2/oop-basics): Managed server inheritance and automated reboots.
+- [Warehouse Inventory](https://github.com/dario-perez/dario-perez/tree/main/logic-exercises/week-2/oop-practice/warehouse_system): Data-driven inventory using object composition.
+- [Traffic Simulator](https://github.com/dario-perez/dario-perez/tree/main/logic-exercises/week-2/oop-practice/traffic-lights-simulator): State machine logic with visual feedback.
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-psi-brown-29.vercel.app/api?username=dario-perez&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img height="170em" src="https://github-readme-stats-psi-brown-29.vercel.app/api/top-langs/?username=dario-perez&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dario-perez&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dario-perez&layout=compact&theme=radical&hide=html,css" />
 </p>
 
 ### 📫 How to reach me
