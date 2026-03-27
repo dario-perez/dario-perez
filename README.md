@@ -22,8 +22,8 @@ Focused on building robust systems and mastering cloud infrastructure.
 ### 📚 Featured Logic Exercises (Object-Oriented Programming)
 Recently, I've been focusing on **Object-Oriented Programming** with these projects:
 - [Server System](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/python/week-2/oop-basics): Managed server inheritance and automated reboots.
-- [Infrastructure Manager](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/week-2/oop-practice): **(New!)** Robust system with IP validation and error handling (Try/Except) for network integrity. 🛡️
-- [CleanBot Simulator](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/week-2/oop-practice/cleanbot_simulator): A terminal-based autonomous robot that manages its own battery life and position. 🤖⚡
+- [Infrastructure Manager](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/python/week-2/oop-practice): **(New!)** Robust system with IP validation and error handling (Try/Except) for network integrity. 🛡️
+- [CleanBot Simulator](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/python/week-2/oop-practice/cleanbot_simulator): A terminal-based autonomous robot that manages its own battery life and position. 🤖⚡
 
 
 ### 📊 My GitHub Stats
