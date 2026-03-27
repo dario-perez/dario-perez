@@ -14,17 +14,16 @@ Focused on building robust systems and mastering cloud infrastructure.
 
 
 ### 🚀 Technical Focus
-- 🐍 **Backend:** Mastering Python (OOP & Automation) 
-- 🐳 **DevOps:** Containerization with Docker.
+- 🐍 **Backend:** Mastering Python (OOP, Automation & **Data Validation**).
+- 🐳 **DevOps:** Containerization with Docker & Environment Management.
 - 🐧 **Systems:** Linux administration and Command Line proficiency.
 
 
 ### 📚 Featured Logic Exercises (Object-Oriented Programming)
 Recently, I've been focusing on **Object-Oriented Programming** with these projects:
-- [CleanBot Simulator](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/python/week-2/oop-practice/cleanbot_simulator): A terminal-based autonomous robot that manages its own battery life and position using state management logic. 🤖⚡
 - [Server System](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/python/week-2/oop-basics): Managed server inheritance and automated reboots.
-- [Warehouse Inventory](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/python/week-2/oop-practice/warehouse-system): Data-driven inventory using object composition.
-- [Traffic Simulator](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/python/week-2/oop-practice/traffic-lights-simulator): State machine logic with visual feedback.
+- [Infrastructure Manager](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/week-2/oop-practice): **(New!)** Robust system with IP validation and error handling (Try/Except) for network integrity. 🛡️
+- [CleanBot Simulator](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/week-2/oop-practice/cleanbot_simulator): A terminal-based autonomous robot that manages its own battery life and position. 🤖⚡
 
 
 ### 📊 My GitHub Stats
