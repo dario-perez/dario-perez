@@ -38,7 +38,7 @@ Recently, I've been focusing on **Object-Oriented Programming** with these proje
 
 
 ### How to reach me
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/dario-perez-dev/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/darioperez-dev/)
 - **Email:** [darioperez.2105@gmail.com](mailto:darioperez.2105@gmail.com)
 
 
