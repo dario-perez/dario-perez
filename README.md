@@ -21,7 +21,7 @@ Focused on building robust systems and mastering cloud infrastructure.
 
 
 ### Featured Project
-- **[Server Inventory API](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/backend-phase-1/fastapi-server-manager)**: **(New!)** My first API built with FastAPI. It manages a server database with full CRUD capabilities and professional directory structure.
+- **[Server Inventory API](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/backend-phase-1/01-fastapi-server-manager)**: **(New!)** My first API built with FastAPI. It manages a server database with full CRUD capabilities and professional directory structure.
 
 
 ### Featured Logic Exercises (Object-Oriented Programming)
