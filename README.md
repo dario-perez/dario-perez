@@ -27,7 +27,7 @@ Focused on building robust systems and mastering cloud infrastructure.
 ### Featured Logic Exercises (Object-Oriented Programming)
 Recently, I've been focusing on **Object-Oriented Programming** with these projects:
 - [Server System](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/python/week-2/oop-basics): Managed server inheritance and automated reboots.
-- [Infrastructure Manager](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/python/week-2/oop-practice/infrastructure-manager): Robust system with IP validation and error handling (Try/Except) for network integrity.
+- [Infrastructure Manager](https://github.com/dario-perez/backend-devops-pathway/tree/main/logic-exercises/python/week-2/oop-practice/14-infrastructure-manager): Robust system with IP validation and error handling (Try/Except) for network integrity.
 
 
 ### My GitHub Stats
