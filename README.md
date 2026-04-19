@@ -4,8 +4,8 @@
 
 # Hi there! I'm Darío 👋
 
-### 🛠️ Aspiring Backend & DevOps Engineer
-Focused on building robust systems and mastering cloud infrastructure.
+### 🛠️ Backend Developer Jr
+Building APIs with Python & FastAPI | Exploring DevOps fundamentals.
 
 
 <p align="center">
@@ -14,7 +14,7 @@ Focused on building robust systems and mastering cloud infrastructure.
 
 
 ### Technical Focus
-- 🐍 **Backend:** Mastering Python (OOP, Automation & **Data Validation**).
+- 🐍 **Backend:** Working with Python (OOP, Automation & **Data Validation**).
 - 📡 **APIs:** Learning RESTful design, CRUD operations, and **Pydantic** validation.
 - 🐳 **DevOps:** Containerization with Docker & Environment Management.
 - 🐧 **Systems:** Linux administration and Command Line proficiency.
