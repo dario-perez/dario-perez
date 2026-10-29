@@ -4,8 +4,8 @@
 
 # Hi there! I'm Darío 👋
 
-### 🛠️ Backend Developer Jr
-Building APIs with Python & FastAPI | Exploring DevOps fundamentals.
+### 🛠️ Backend & DevOps In Training
+Python, FastAPI, Linux, Docker, Git | Building APIs and automating workflows | Exploring DevOps fundamentals.
 
 
 <p align="center">
@@ -14,10 +14,10 @@ Building APIs with Python & FastAPI | Exploring DevOps fundamentals.
 
 
 ### Technical Focus
-- 🐍 **Backend:** Working with Python (OOP, Automation & **Data Validation**).
-- 📡 **APIs:** Learning RESTful design, CRUD operations, and **Pydantic** validation.
-- 🐳 **DevOps:** Containerization with Docker & Environment Management.
-- 🐧 **Systems:** Linux administration and Command Line proficiency.
+-  **Backend:** Working with Python (OOP, Automation & **Data Validation**).
+-  **APIs:** Learning RESTful design, CRUD operations, and **Pydantic** validation.
+-  **DevOps:** Containerization with Docker & Environment Management.
+-  **Systems:** Linux administration and Command Line proficiency.
 
 
 ### Featured Project
@@ -43,9 +43,9 @@ Recently, I've been focusing on **Object-Oriented Programming** with these proje
 
 
 ### Professional Goals
-- 🇰🇷 Passionate about high-scale engineering cultures, with a particular interest in the South Korean tech ecosystem.
-- 📈 Committed to continuous growth within international, high-performance backend teams.
-- 🚀 Focused on mastering system reliability and scalable architecture.
+-  Passionate about high-scale engineering cultures, with a particular interest in the South Korean tech ecosystem.
+-  Committed to continuous growth within international, high-performance backend teams.
+-  Focused on mastering system reliability and scalable architecture.
 
 ---
 
